@@ -1,0 +1,8 @@
+# AeroSec Engineering Portal
+
+> Official technical documentation for network architecture, security hardening, and operational standards.
+
+## Core Documentation
+- [Network Topology Reference](https://example.org/docs/architecture)
+- [Cisco IOS Hardening Guide](https://example.org/docs/security-guide)
+- [Incident Response Runbook](https://example.org/docs/incident-response)
