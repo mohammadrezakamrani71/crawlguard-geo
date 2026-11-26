@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+geo_report.md
+geo_report.html
+geo_report.json
