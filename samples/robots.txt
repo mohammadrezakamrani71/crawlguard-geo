@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /internal/
+
+User-agent: GPTBot
+Allow: /docs/
+Allow: /llms.txt
+
+User-agent: Bytespider
+Disallow: /
+
+Sitemap: https://example.org/sitemap.xml
